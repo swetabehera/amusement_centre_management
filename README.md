@@ -35,7 +35,7 @@ A full-stack web app that enables Amusement Device Manufacturers & Franchise Own
 ### Dashboard 
 
 
-![](/Images/admin_dashboard.gif)
+![](/Images/admin_dashboard.png)
 
 
 ### Device List
