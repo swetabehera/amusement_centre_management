@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name"      : "qrew_boxer_api_dev",
+      "script"    : "yarn && yarn dev",
+      "interpreter": "none",
+      "args": "serve -p 8443 -T"
+    }
+  ]
+}

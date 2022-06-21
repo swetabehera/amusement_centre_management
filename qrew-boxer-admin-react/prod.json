@@ -1,0 +1,10 @@
+{
+    "apps" : [
+        {
+            "name"      : "admin_live",
+            "script"    : "yarn prod",
+            "interpreter": "none",
+            "args": "serve -p 8443 -T"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "apps" : [
+        {
+            "name"      : "qrew_admin_dev",
+            "script"    : " yarn dev -p 5000",
+            "interpreter": "none",
+            "args": "serve -p 8443 -T"
+        }
+    ]
+}

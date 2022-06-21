@@ -1,0 +1,32 @@
+{
+    "env": {
+        "es6": true,
+        "node": true,
+        "jest": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "extends": [
+        "eslint:recommended",
+        "prettier"
+    ],
+    "plugins": [
+        "prettier",
+        "babel"
+    ],
+    "rules": {
+        "prettier/prettier": [2, {
+            "printWidth": 120,
+            "singleQuote": true,
+            "trailingComma": "all",
+            "endOfLine": "lf"
+        }],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "no-console": 2
+    }
+}
