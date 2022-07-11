@@ -1,6 +1,6 @@
 # QrewBoxer (Amusement Centre Management)
 
-A full-stack web app that enables Amusement Device Manufacturers & Franchise Owners to manage their businesses.
+A full-stack web app that enables Amusement Device Manufacturers & Franchise Owners to manage the devices, their maintenance, their usage and analysing all the data on a dashboard. 
 
 ## Features
 - Secure Login/Register for Amusement Device Manufacturers 
@@ -10,11 +10,12 @@ A full-stack web app that enables Amusement Device Manufacturers & Franchise Own
   - View product/device detail
   - Modify product/device detail
   - Delete product/device detail
-  - Franchise Analytics Management
+  - Franchise Analytics display on a Dashboard
 - Franchise Store Owners :
+  - Add device 
   - View device status
-  - Payment Management
-  - Device usage analytics
+  - Wallet payment Management
+  - Device usage analytics display on a Dashboard
 
 ## Tech Stack
 - Node.js
