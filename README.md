@@ -18,12 +18,14 @@ A full-stack web app that enables Amusement Device Manufacturers & Franchise Own
   - Device usage analytics display on a Dashboard
 
 ## Tech Stack
+- HTML5 
 - Node.js
 - Express.js
 - React.js
+- Next.js
+- FeatherJS
+- MaterialUI
 - MongoDB
-- HTML5 
-- CSS 
 
 # Screenshots : 
 
